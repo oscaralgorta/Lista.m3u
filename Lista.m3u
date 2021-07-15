@@ -10,7 +10,7 @@ http://54.39.16.47:25461/live/71737024/71737024/21.m3u8
 http://54.39.16.47:25461/live/71737024/71737024/482.m3u8
 
 #EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/ATV_(Per%C3%BA)#/media/Archivo:ATV_logo_2020.png", ATV
-https://pe-atv-atv-live.ned.media/aud.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2Mzk2NDU5LCJzZXNzaW9uIjoiMTc5LjYuMjE2LjQ2Iiwid2hpdGVsaXN0IjpbIjE3OS42LjIxNi40NiJdfSwic2lnbmF0dXJlIjoiMzM4NzMxZWNkYjk3YTBlZjk1NWE5YjRmNzkzNWQyNzY4ZjM2ZmFlOCJ9
+https://pe-atv-atv-live.ned.media/vid_480p.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2Mzk4MjYzLCJzZXNzaW9uIjoiMTc5LjYuMjE2LjQ2Iiwid2hpdGVsaXN0IjpbIjE3OS42LjIxNi40NiJdfSwic2lnbmF0dXJlIjoiMDA2NWEyYjk3MDAwMjNhMWU5N2Q1NzUwMDNhNmMxMTFmYzUwOWE0NiJ9
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png", Willax
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmphMjJ1t4i7YbnooQptllwQ)/dm/3/x7x4dgx/s/live-2.m3u8
