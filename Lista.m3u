@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/67/Latina_logo.jpg", Latina
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png", Panamericana
+http://54.39.16.47:25461/live/71737024/71737024/21.m3u8
+
+#EXTINF: -1, tvg-logo = "https://www.tvperu.gob.pe/sites/default/files/TVPE-SLIDER.png", Tv peru noticias
+http://54.39.16.47:25461/live/71737024/71737024/482.m3u8
+
+#EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/ATV_(Per%C3%BA)#/media/Archivo:ATV_logo_2020.png", ATV
+https://pe-atv-atv-live.ned.media/aud.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2Mzk2NDU5LCJzZXNzaW9uIjoiMTc5LjYuMjE2LjQ2Iiwid2hpdGVsaXN0IjpbIjE3OS42LjIxNi40NiJdfSwic2lnbmF0dXJlIjoiMzM4NzMxZWNkYjk3YTBlZjk1NWE5YjRmNzkzNWQyNzY4ZjM2ZmFlOCJ9
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png", Willax
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmphMjJ1t4i7YbnooQptllwQ)/dm/3/x7x4dgx/s/live-2.m3u8
+
+#EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/Radio_Exitosa#/media/Archivo:Logoexitosa.png", Exitosa
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/Radio_Programas_del_Per%C3%BA#/media/Archivo:RPP_logo.png", RPP
+https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=609c8f24023cabf6_5436388_1kyCAZYp__000000dZ4PP&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=hcYGodf305pwMdriAtmnq7RX8DAj9CBm&sid=cUviey8sLYjbh77KyASr62kBJSWNAXHL&pid=S9xE3cHNiMGYDA8c5VwgiwrX5ytg8rNn&ref=rpp.pe&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1626395691439&ot=1axUGoC-gjTOfLD2dMyo2w&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
+
+#EXTINF: -1, tvg-logo = "https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png", Golden plus
+http://142.44.246.107:25461/live/983790671/983790671/22118.m3u8?token=T0QJVEZaRF4aCF1XAAUEVAUFV1UGXVZWXANWAQpVWgkAUwUMAAcHAl0aFRMRQEVSV1ppDFZGWwEKVAINFRFMS1EUPlxREFxGCwgNCFcWGxVCXlsAEF5RHxoVWlEbCRsJBldRAxceRAFATFxDDFVbaFJSQAxRAUMJVhBfWRURVlZrAgRYVFwCRgIaCRNOFl5ERhUMC0cIDR8aB1pBS1JNXRZcQwQHB1BGFBpaXhdaQ0VPFQxHYiFDHxoAS0FcXUpRWwhDDxdfVREAGhUTC0doRVNEQhdXBQxWSkcJFwkRFRpZBxlqVl0ICl1bTVgNWkQVDBUARx5GDFxWDEdaS2xJUVBEWxcHAF5VDxpE
+
+#EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/Star_Channel#/media/Archivo:Star_Channel_2020.svg", STAR CHANNEL
+https://r9uxprta46.azcdn107.net:8443/hls/0e733j.m3u8?s=Tj_SPGCSSAWsqp-fYetshw&e=1626331403
+
+#EXTINF: -1, tvg-logo = "https://i.blogs.es/7a80e6/paramount-logo/450_1000.jpg", Paramount 
+http://142.44.246.107:25461/live/983790671/983790671/330.m3u8?token=T0QJVEZaRF4aCgkJUwRTVVVSVAZRAgAEWVNXBF8ADQoHVlcEA1NRXV4aFRMRQEVSV1ppDFZGWwALVR8XTEBcSmsPBRcPEFVUDAEME04WQ15bUhRfAkhDQ1EBEQ8bAQ0ADFFDGRdXHhBdSldQDmtTUkBeVQAQXg9GVAkfF1ZdZlxRCwBbURBcRggaFRMLR0cVDFlDCV5IQ1FREUFUTVYbAhZTUQYDEEpGW1dMXxZGThUMFWYgEEhDVkARVltKWlZWFlxDWAZHXkYUGlBCPUZSREJFUwRfARMRAkcDFxURVFlMOQJaW1wDB0xRVl8RFg0VABUaR18LD1pMCkFqSVpdGg5EUwcCClNGRQ==
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/245px-Warner_Bros._%282019%29_logo.svg.png", Warner Channel 
+http://142.44.246.107:25461/live/983790671/983790671/22343.m3u8?token=T0QJVEZaRF4aWw9TWwFWAAUPBVcGUFcFCgNXVwtRClkEBVJXBFQEUw4aFRMRQEVSV1ppDFZGWwEKVgcGFRFMS1EUPlxREFxGCwgNCFcWGxVCXlsAEF5RHxoVWlEbCRsLBFNWDBceRAFATFxDDFVbaFJSQAxRAUMJVhBfWRURVlZrAgRYVFwCRgIaCBNOFl5ERhUMC0cIDR8aB1pBS1JNXRZcD0BZXkpGW1dMXxZGThUMFWYgEEhDVkARVltKWlZWFlxDWAZHXkYUGlBCPUZSREJFUwRfARMRAkcDFxURVFlMOQJaW1wDB0xRVl8RFg0VABUaR18LD1pMCkFqSVpdGg5EUgUAAFNGRQ==
+
+#EXTINF: -1, tvg-logo = "https://i.etsystatic.com/15734348/r/il/1f02d6/1466572872/il_570xN.1466572872_d8s5.jpg", MTV 
+http://142.44.246.107:25461/live/644413924/644413924/687.m3u8?token=T0QJVEZaRF4aXAoDBAEEB1RVBVdUBgUAWQdWU1tSDAlVBAUAAlAFVg8aFRMRQEVSV1ppDFZGWwUAUh8XTEBcSmsPBRcPEFVUDQ0PE04WQ15bUhRfAkhDQ1EBEQ8bAg8LAFNDGRdXHhBdSldQDmtTUkBeVQAQXg9GVAkfF1ZdZlxRCwBbURBcRggaFRMLR0cVDFlDCV5IQ1FREUFUTVYbAhZSVAIAEEpGW1dMXxZGThUMFWYgEEhDVkARVltKWlZWFlxDWAZHXkYUGlBCPUZSREJFUwRfARMRAkcDFxURVFlMOQJaW1wDB0xRVl8RFg0VABUaR18LD1pMCkFqSVpdGg5EUwcNAFVGRQ==
+
+#EXTINF: -1, tvg-logo = "https://es.wikipedia.org/wiki/Gol_Per%C3%BA#/media/Archivo:Gol_Per%C3%BA_2019.svg", Gol Perú
+https://e5.cdnfoxtv.com/ingest03/68691.m3u8?sf=cWE4QUg3TmRPNw==&token=Yta_I9HrIPOaPBnkW1PYlw&expires=1626324055&rnd=
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/23/Canal_plus_liga_campeones.png", Movistar+ 
+http://142.44.246.107:25461/live/912114447/912114447/443.m3u8?token=T0QJVEZaRF4aWgAFAAICVFAGAlBTXVILAQYLAQoKClpXV1BUAQdUVAAaFRMRQEVSV1ppDFZGWwcMVh8XTEBcSmsPBRcPEFVUDAENE04WQ15bUhRfAkhDQ1EBEQ8bAQ4JBURNF1BKEgFKVlhdPVBSQV9UU0cIChRfVEkRWldsXV1ZBw9RFwhEVBoUG1gRRBUNWEJaCR5GA1pMF1JBXBEDGgZVUgIXHkQHV01XRRBNFQ0UZ3NHHkYES0wAXUZQXFcaDkQMBkAKREgaUUpuEFFEQ0RSVwhXFkMJGlURGRteWEBrBQ5bW1cFEFFXV0JADhUBFBsUCF0KCEdXF2xFUFcbAhZUUwwCC0QZ
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png", Directv
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSPAN/stream05/hdntl=exp=1626043889~acl=%2f*~data=hdntl~hmac=d72c013be51881e9fbe843868ccc227d7ae6e51b35b5ee14ec8ca829b100c8d5/streamPlaylist.m3u8
+
+#EXTINF: -1, tvg-logo = "https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png", NBA TV 
+http://142.44.246.107:25461/live/912114447/912114447/3306.m3u8?token=T0QJVEZaRF4aXFoFAwMCUVMHBV0BAlhQDFBRAFgDDgpRA1QCV1YCAgAaFRMRQEVSV1ppDFZGWwALVQUZG0ZKXUY5CFEXCERXCAwABUAYFUNfWlNHCFRNEUgMVxcDEQsLDFNWFxkQAxxMXUtfA1hoU1NBXwZXRltdTQlfGRtcV2dQAwxUW1ZEXhoIGx1AXURHFA1YEF4ITRFaDEdHWEdcGg5EVgcBB0RIGltWRAxARU4UDRQ1d0ZNEV0dR1BXQFBXWkRbF1gBE1waFBtYEWtFUkVDRABTCQRBGl8RBRsfG1VVHj5WWlwIAVtMUF4MRxUNFAEUSRAJDl1REVxHZkNQXBZcQwcHC19WGkU=
+
+#EXTINF: -1, tvg-logo = "https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png", National Geographic 
+http://142.44.246.107:25461/live/155384882/155384882/21384.m3u8?token=T0QJVEZaRF4aW1gFVwZVAAQBB1cKXFADCQEFUQkEX1tRUlZUAVFQUAkaFRMRQEVSV1ppDFZGWwEJVgsBFRFMS1EUPlxREFxGCwgMAFsWGxVCXlsAEF5RHxoVWlEbCRsPDFZSFxkQAxxMXUtfA1hoU1NBXwZXRltdTQlfGRtcV2dQAwxUW1ZEXhoIGx1AXURHFA1YEF4ITRFaDEdHWEdcGg5EUAcBC0RIGltWRAxARU4UDRQ1d0ZNEV0dR1BXQFBXWkRbF1gBE1waFBtYEWtFUkVDRABTCQRBGl8RBRsfG1VVHj5WWlwIAVtMUF4MRxUNFAEUSRAJDl1REVxHZkNQXBZcQwcEAlBGRQ==
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg", History Channel 
+http://54.39.16.47:25461/live/155384882/155384882/21886.m3u8
+
+#EXTINF: -1, tvg-logo = "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png", Home & Health 
+http://54.39.16.47:25461/live/155384882/155384882/21829.m3u8
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CNN%2B_logo.svg/1200px-CNN%2B_logo.svg.png", CNN 
+http://142.44.246.107:25461/live/635129763/635129763/3346.m3u8?token=T0QJVEZaRF4aCl9VA1JWDgRUUFcCXABRWwABUA4DWlpQVlAEVFYHXQsaFRMRQEVSV1ppDFZGWwALUQUZG0ZKXUY5CFEXCERXCAwAAkAYFUNfWlNHCFRNEUgMVxcDEQgLAVRQFxkQAxxMXUtfA1hoU1NBXwZXRltdTQlfGRtcV2dQAwxUW1ZEXhoIGx1AXURHFA1YEF4ITRFaDEdHWEdcGg5EUgwEBURIGltWRAxARU4UDRQ1d0ZNEV0dR1BXQFBXWkRbF1gBE1waFBtYEWtFUkVDRABTCQRBGl8RBRsfG1VVHj5WWlwIAVtMUF4MRxUNFAEUSRAJDl1REVxHZkNQXBZcQwcGAlVTGkU=
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg", RT 
+http://54.39.16.47:25461/live/635129763/635129763/907.m3u8
